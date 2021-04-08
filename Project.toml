@@ -1,0 +1,7 @@
+name = "SharpArithmetic"
+uuid = "f749392a-e136-46a2-b68a-ebf3f87f151a"
+authors = ["Federico Stra <stra.federico@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
